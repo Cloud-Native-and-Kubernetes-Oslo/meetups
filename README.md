@@ -5,6 +5,6 @@ This repository contains resources shared by the speakers and organizers for the
 
 We are open to speakers of all levels from around the world and are looking for talks from anyone doing cool things with Kubernetes, and the other CNCF technologies 😊
 
-- If you would like to get notified about upcoming meetups, join our cozy community at [CNCF Community](https://community.cncf.io/cloud-native-oslo/);
+- If you would like to get notified about upcoming meetups, join our cozy community at [CNCF Community](https://ocgroups.dev/cncf/group/hcwp3b5);
 - If you would like to speak at one of our future meetups, let us know by submitting a proposal to our [Sessionize](https://sessionize.com/cloud-native-and-kubernetes-oslo/) page;
 - If you have any feedback, ideas and suggestions, or if you would like to provide a location and/or sponsor our future meetups, please reach out at [cloudnativeoslomeetup@gmail.com](cloudnativeoslomeetup@gmail.com)
